@@ -1,4 +1,4 @@
-package com.algaworks.cadastrocliente.model;
+package com.jpa.cadastrocliente.model;
 
 import javax.persistence.*;
 

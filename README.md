@@ -1,2 +1,4 @@
 # jpa-master
- Exmplo simples de como buscar registro,inserir, remolver usando JPA
+
+![alt text](img/jpa.jpg)
+Exemplo simples de como buscar registro,inserir e remolver usando JPA

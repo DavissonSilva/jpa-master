@@ -8,4 +8,4 @@ Java Persistence API (ou simplesmente JPA) é uma API padrão da linguagem Java 
 
 O principal objetivo dessa aplicação e demonstrar como inserir e alterar dados no banco de dados usando jpa, aplicação vai realizar a criação da tabela e cadastro dos clientes no banco, projeto foi desenvolvido baseado na arquitetura do Spring boot.
 
-![alt text](img/tabela.png)
+![alt text](img/tabela.jpg)
